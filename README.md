@@ -13,4 +13,6 @@
 
  </div>
 
+<img src=" [![Top Langs](https://github-readme-stats-ten-psi.vercel.app/api/top-langs/?username=RaynorDev&layout=donut-vertical)](https://github.com/RaynorDev/github-readme-stats)" />
+
 <br/>
